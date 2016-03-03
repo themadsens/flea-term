@@ -1,5 +1,5 @@
 # FLEA-term
-A wxLua terminal emulator
+A programmers terminal emulator.
 
 A cross platform terminal emulation based on luajit and wxLua.
 The underlying wx widget is wxAuiNotebook for flexible pane placement and management.
